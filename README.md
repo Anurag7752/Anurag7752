@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag7752" alt="anurag7752" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anurag77039" target="blank"><img src="https://img.shields.io/twitter/follow/anurag77039?logo=twitter&style=for-the-badge" alt="anurag77039" /></a> </p>
-
 - 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Webdev, MERN**
