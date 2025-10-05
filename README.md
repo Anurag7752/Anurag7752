@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag kumar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 
